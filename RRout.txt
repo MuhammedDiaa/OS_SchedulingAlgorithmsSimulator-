@@ -1,0 +1,14 @@
+cycle:0  0:Running (0 ,2) ---
+cycle:1  0:Blocked (0 ,1) ---
+cycle:2  0:Blocked (0 ,0) ---
+cycle:3  0:Running2 (0 ,0) ---
+cycle:4  0:terminated (0 ,0) ---2:Running (0 ,1) ---
+cycle:5  0:terminated (0 ,0) ---2:Blocked (0 ,0) ---1:Ready   (1 ,1) ---
+cycle:6  0:terminated (0 ,0) ---0:terminated (0 ,0) ---2:Ready   (0 ,0) ---1:Running (0 ,1) ---
+cycle:7  0:terminated (0 ,0) ---2:Running2 (0 ,0) ---
+cycle:8  0:terminated (0 ,0) ---2:terminated (0 ,0) ---1:Blocked (0 ,0) ---
+cycle:9  0:terminated (0 ,0) ---2:terminated (0 ,0) ---0:terminated (0 ,0) ---2:terminated (0 ,0) ---1:Running2 (0 ,0) ---
+cycle:10  0:terminated (0 ,0) ---2:terminated (0 ,0) ---1:terminated (0 ,0) ---
+finishing time = 9.000000 
+used time:6.000000 
+CPU utillization: 0.666667
